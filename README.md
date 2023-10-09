@@ -1,0 +1,2 @@
+# WeboveAplikacieBackend
+Cvicenie
